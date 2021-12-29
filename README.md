@@ -1,0 +1,2 @@
+### Решение задач из курса "Structure and Interpretation of Cumputer Programs"
+Хранилище разделено по каталогам-главам (Например, "Chapter 1" - задачи и 1 главы книги). Решение задач реализовано на каноничном языке [Racket](https://racket-lang.org/), заимствующем каноничный диалект языка [Scheme](https://en.wikipedia.org/wiki/Scheme_(programming_language)), разработанным авторами курса - сотрудниками MIT (Массачусетский технологический институт).
